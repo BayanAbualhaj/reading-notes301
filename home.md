@@ -6,4 +6,5 @@
 ### Reads :
 
 * [Class01](https://bayanabualhaj.github.io/reading-notes301/class01)
+* [Class01](https://bayanabualhaj.github.io/reading-notes301/class02)
 
