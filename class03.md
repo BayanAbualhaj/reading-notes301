@@ -60,7 +60,7 @@ This is a shorthand for the flex-direction and flex-wrap properties, which toget
 
 
 * align-items
-![49]https://github.com/BayanAbualhaj/reading-notes301/blob/master/img/Screenshot%20(49).png?raw=true)
+![49](https://github.com/BayanAbualhaj/reading-notes301/blob/master/img/Screenshot%20(49).png?raw=true)
 
 
 * align-content
