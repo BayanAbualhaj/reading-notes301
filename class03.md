@@ -56,12 +56,12 @@ By default, flex items will all try to fit onto one line. You can change that an
 This is a shorthand for the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes. The default value is row nowrap.
 
 * justify-content
-![48](image.png)
+![48](https://github.com/BayanAbualhaj/reading-notes301/blob/master/img/Screenshot%20(48).png?raw=true)
 
 
-* justify-content
-![49](image.png)
+* align-items
+![49]https://github.com/BayanAbualhaj/reading-notes301/blob/master/img/Screenshot%20(49).png?raw=true)
 
 
-* justify-content
-![50](image.png)
+* align-content
+![50](https://github.com/BayanAbualhaj/reading-notes301/blob/master/img/Screenshot%20(50).png?raw=true)
