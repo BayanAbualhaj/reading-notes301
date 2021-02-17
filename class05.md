@@ -1,6 +1,6 @@
 # What I learned
 
-![JS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackify.com%2Fasync-javascript-approaches%2F&psig=AOvVaw3pPoWioM4Oyf-3q4CbAR_1&ust=1613672085659000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCNCtl47D8e4CFQAAAAAdAAAAABAY)
+![JS](https://stackify.com/wp-content/uploads/2017/10/async-javascript-2-793x397.png)
 
 
 ## Heroku:
