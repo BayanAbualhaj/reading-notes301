@@ -14,4 +14,5 @@
 * [Class07](https://bayanabualhaj.github.io/reading-notes301/class07)
 * [Class08](https://bayanabualhaj.github.io/reading-notes301/class08)
 * [Class09](https://bayanabualhaj.github.io/reading-notes301/class09)
+* [Class10](https://bayanabualhaj.github.io/reading-notes301/class10)
 
