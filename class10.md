@@ -67,6 +67,7 @@ we usually try to catch the errors so we can gracefully fallback to a default st
 
 * For those of you looking to make JS a more strong typed experience you can check out stuff like TypeScript (like I said in a previous article, when learning I rather avoid libraries that abstract the core language so I wouldn’t recommend this last one when starting).
 
-
+-------
++++++++++++++++++++++
 
 
