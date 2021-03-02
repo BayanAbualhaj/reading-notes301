@@ -28,8 +28,8 @@ Normalization is a technique for organizing data in a database.
     - Only data that relates to a table’s primary key is stored in each table
 
 * Third Normal Form (3NF):
-    - Everything from 2NF
-    - There are no in-table dependencies between the columns in each table
+    - Everything from 2NF.
+    - There are no in-table dependencies between the columns in each table.
 
 
 
